@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "task-1",
+      "title": "Review a dependency update",
+      "owner": "maintainer",
+      "status": "in-review"
+    },
+    {
+      "id": "task-2",
+      "title": "Draft a test plan",
+      "owner": "assistant",
+      "status": "planned"
+    }
+  ]
+}
